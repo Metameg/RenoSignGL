@@ -1,0 +1,38 @@
+﻿  Cylinder.cpp
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\Cylinder.cpp(607,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\Cylinder.cpp(607,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\Cylinder.cpp(675,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\Cylinder.cpp(675,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  IcoSphere.cpp
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\IcoSphere.cpp(197,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\IcoSphere.cpp(197,20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  main.cpp
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\shaderGL.h(46,34): warning C4101: 'e': unreferenced local variable
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(241,18): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(274,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(275,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(279,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(280,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(282,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(283,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(289,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(317,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(324,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(325,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(333,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(334,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(340,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(497,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(504,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(505,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(513,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(514,57): warning C4305: 'argument': truncation from 'double' to 'float'
+  GLMesh.cpp
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\GLMesh.cpp(235,23): warning C4018: '<': signed/unsigned mismatch
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\GLMesh.cpp(291,23): warning C4018: '<': signed/unsigned mismatch
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\GLMesh.cpp(343,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\C\Users\metam\source\repos\RenoSignGL\RenoSignGL\main.cpp(243): warning C4715: 'UInitialize': not all control paths return a value
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  RenoSignGL.vcxproj -> C:\C\Users\metam\source\repos\RenoSignGL\Debug\RenoSignGL.exe
